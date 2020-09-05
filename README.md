@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Harry's github stats](https://github-readme-stats.vercel.app/api?username=ha6000)](https://github.com/anuraghazra/github-readme-stats)
+[![Harry's github stats](https://github-readme-stats.vercel.app/api?username=ha6000&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ha6000/ha6000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
